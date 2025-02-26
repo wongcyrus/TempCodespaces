@@ -74,3 +74,4 @@ bullet_points.text = "Recap of benefits and limitations\nFuture developments"
 
 # save powerpoint file
 prs.save("ChatGPT VR Chatbot.pptx")
+print("PowerPoint presentation generated successfully!")
